@@ -1,0 +1,15 @@
+C:\Users\Jonothan Stankovski\Google Drive\University\UOW (University Work)\2016\Spring\ISIT114\C# Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Jonothan Stankovski\Google Drive\University\UOW (University Work)\2016\Spring\ISIT114\C# Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Jonothan Stankovski\Google Drive\University\UOW (University Work)\2016\Spring\ISIT114\C# Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\Jonothan Stankovski\Google Drive\University\UOW (University Work)\2016\Spring\ISIT114\C# Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\Jonothan Stankovski\Google Drive\University\UOW (University Work)\2016\Spring\ISIT114\C# Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Jonothan Stankovski\Google Drive\University\UOW (University Work)\2016\Spring\ISIT114\C# Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+O:\New folder\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+O:\New folder\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+O:\New folder\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+O:\New folder\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+O:\New folder\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+O:\New folder\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+O:\C#\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+O:\C#\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+O:\C#\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb

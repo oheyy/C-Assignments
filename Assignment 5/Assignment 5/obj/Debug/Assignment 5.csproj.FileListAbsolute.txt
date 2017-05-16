@@ -1,0 +1,27 @@
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Form1.resources
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.Cache
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\james\Desktop\ISIT114 Lab\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
+O:\New folder\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+O:\New folder\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+O:\New folder\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
+O:\New folder\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+O:\New folder\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+O:\New folder\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Form1.resources
+O:\New folder\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+O:\New folder\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.Cache
+O:\New folder\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+O:\C#\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+O:\C#\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+O:\C#\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
+O:\C#\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+O:\C#\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+O:\C#\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+O:\C#\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Form1.resources
+O:\C#\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+O:\C#\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.Cache
